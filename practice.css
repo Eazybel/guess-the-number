@@ -1,0 +1,18 @@
+#btn{
+
+        cursor: pointer;
+        outline: none;
+        border-color: black;
+        background-color: #ffffff;
+        padding: 0.3em 1.2em;
+        border-radius: 30px;
+        font-size: 1.2rem;
+        color: #000000;
+        background-size: 100% 100%;   
+}
+.div{
+    display: grid;
+    justify-content: center;
+    margin-top: 400px;
+    
+}
